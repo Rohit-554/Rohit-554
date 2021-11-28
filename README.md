@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohit-554
 - 👀 I’m interested in contributing to opensource
 - 🌱 I’m currently learning Android Dev
-- 💞️ I’m looking to collaborate on Small/Large Projects Of Python,Kotlin or Kotlin 
+- 💞️ I’m looking to collaborate on Small/Large Projects Of Python,C++ or Kotlin 
 - 📫 my insta profile "angaar222"
 
 <!---
