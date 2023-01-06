@@ -7,7 +7,7 @@
 
 <h4 align="center">🌱 I’m currently learning **Kotlin and Android Techs like jetpack**</h4>
 <h4 align="center">💬 Ask me about **Kotlin,Java,Android,Figma**</h4>
-<h4 align="center">⚡ Fun fact **I think I am too hard working 😁**!</h4>
+<h4 align="center">⚡ Didn't have patience to Queue my problems!</h4>
 <br>
 <br>
 <h3 align="center">Connect with me:</h3>
