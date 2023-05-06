@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 
 <br>
-<h2 align="center">A passionate Android Developer and a UI designer</h2>
+<h2 align="center">A passionate Android Developer </h2>
 
 
-<h4 align="center">🌱 I’m currently learning **Kotlin and Android Techs like jetpack**</h4>
-<h4 align="center">💬 Ask me about **Kotlin,Java,Android,Figma**</h4>
+<h4 align="center">🌱 I’m on Android and Web3j </h4>
+<h4 align="center">💬 Ask me about Kotlin,Java,Android,Figma,Web3j</h4>
 <h4 align="center">⚡ Didn't have patience to Queue my problems!</h4>
 <br>
 <br>
