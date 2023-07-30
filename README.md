@@ -2,14 +2,16 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 
 <br>
-<h2 align="center">A passionate Android Developer </h2>
+<h2 align="center">A passionate Mobile Developer </h2>
 
 
-<h4 align="center">🌱 I’m on Android and Web3j </h4>
-<h4 align="center">💬 Ask me about Kotlin,Java,Android,Figma,Web3j</h4>
+<h4 align="center">🌱 Talk me about Kotlin and Flutter </h4>
+<h4 align="center">💬 Ask me about Kotlin,Dart,Java,Android,Figma,Web3j</h4>
 <h4 align="center">⚡ Didn't have patience to Queue my problems!</h4>
 <br>
 <br>
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/rohit-115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-115" height="30" width="30" /></a>
