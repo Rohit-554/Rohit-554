@@ -18,7 +18,7 @@
   <details>
     <summary> About Me 👨‍💻</summary>
     <p align="center">
-      Hey there! I'm Rohit, I am a Native Andorid Developer <b> Kotlin </b>  and streching my domain to build for cross platforms with <b>Flutter</b>, Learning and adapting the latest trend and continue to Learn from my mistakes and others, Meanwhile I enjoy Action and Thriller movies :)
+      Namaste!, I'm Rohit, An Native and Cross Platform Mobile Developer, searching new ways to make the new tech fit the mobile 😊. Meanwhile i am big fan of Tom Cruise & Sia, Let's connect & crack some ideas ⚡
     </p>
   </details>
 </div>
