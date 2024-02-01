@@ -18,7 +18,7 @@
   <details>
     <summary> About Me 👨‍💻</summary>
     <p align="center">
-      Namaste!, I'm Rohit, An Native and Cross Platform Mobile Developer, searching new ways to make the new tech fit the mobile 😊. Meanwhile i am big fan of Tom Cruise & Sia, Let's connect & crack some ideas ⚡
+      Bonjour 👊, I'm Rohit, An Native and Cross Platform Mobile Developer, searching new ways to make the new tech fit the mobile 😊. Meanwhile i am big fan of Tom Cruise & Sia, Let's connect & crack some ideas ⚡
     </p>
   </details>
 </div>
