@@ -15,9 +15,6 @@
   <a href="https://www.linkedin.com/in/rohit115/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/angaar222" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-Follow-ff69b4?style=flat-square&logo=instagram" alt="Instagram">
-  </a>
 </div>
 
 <br>
