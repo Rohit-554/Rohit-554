@@ -1,81 +1,67 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/48874687/204885212-7558d3b7-733f-4d94-b64f-3fa60f3c44b5.gif" alt="Coding" width="380" align="left">
-  <p style="font-size: 28px;">Hi 👋, I'm Rohit</p>
+# Hello World! <img src="https://user-images.githubusercontent.com/48874687/204885212-7558d3b7-733f-4d94-b64f-3fa60f3c44b5.gif" width="380" align="right">
+
+### 👨‍💻 Strategising
+
+🚀 **What's Cooking:**
+- Building ⚒ with Android, KMP, React.js & Flutter
+- Breaking things (professionally) to make them better
+- Turning coffee into code since undefined
+
+🎯 **Current Mission:**
+- Making apps that don't just work, but make one smile
+- Learning KMP tricks (it's like magic, but with more semicolons)
+- Building snappy web apps (because nobody likes waiting!)
+- Contributing to open source (because sharing is caring!)
+
+💬 **Let's Talk About:**
+- Kotlin/Flutter/Javascript/Java (I speak multiple languages, including caffeine)
+- Why my code works on Friday but breaks on Monday
+- How my breakpoints give the same heart attacks as Tom Cruise stunts 😅
+
+### 🛠️ Weapon of Choice
+
+<div align="left">
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 </div>
 
+### 🌐 Find Me Around The Web:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit115)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rokiran)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13644300)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@unsungcoders)
+
+---
+
+<details>
+<summary>🏆 GitHub Trophies (Click to expand!)</summary>
 <br>
 
+![](https://github-profile-trophy.vercel.app/?username=Rohit-554&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</details>
+
+<details>
+<summary>📈 GitHub Stats (Click to expand!)</summary>
+<br>
+
+![](https://github-readme-stats.vercel.app/api?username=Rohit-554&theme=holi&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-554&theme=holi&hide_border=false)
+</details>
+
+> "Debug like nobody's watching! 🐛✨"
+
+[![](https://visitcount.itsvg.in/api?id=Rohit-554&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 <div align="center">
-  <p style="font-size: 22px;">A Passionate Mobile Developer</p>
+<em>Built with AI, but the chaos is all mine! </em>😉
+
+### Thanks for dropping by! ☕
+Come back soon - there's always something new breaking (and getting fixed) here!
+
+[![](https://visitcount.itsvg.in/api?id=Rohit-554&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>
-
-<br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rohit115/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <details>
-    <summary style="font-size: 18px;"> About Me 👨‍💻</summary>
-    <p style="font-size: 16px;">
-      Bonjour 👊, I'm Rohit, A Native and Cross Platform Mobile Developer, exploring new ways to integrate the latest tech into mobile 😊. I'm a big fan of Tom Cruise & Sia. Let's connect & brainstorm some ideas! ⚡
-    </p>
-  </details>
-</div>
-
-<br>
-
-<div align="center">
-  <p style="font-size: 20px;">Languages and Tools:</p>
-  <p>
-    <a href="https://developer.android.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40" />
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-    </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noopener noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a>
-  </p>
-</div>
-
-<br>
-
-<hr>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-554" alt="rohit-554" />
-</p>
