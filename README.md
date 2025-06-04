@@ -1,23 +1,33 @@
-# Hello World! <img src="https://user-images.githubusercontent.com/48874687/204885212-7558d3b7-733f-4d94-b64f-3fa60f3c44b5.gif" width="380" align="right">
+# Hello World! <img src="https://user-images.githubusercontent.com/48874687/204885212-7558d3b7-733f-4d94-b64f-3fa60f3c44b5.gif" width="380" align="right" />
 
-### 👨‍💻 Strategising
+### 👨‍💻 Dev Who Googles Everything
 
-🚀 **What's Cooking:**
-- Building ⚒ with Android, KMP, React.js & Flutter
-- Breaking things (professionally) to make them better
-- Turning coffee into code since undefined
+**Building with:** Android, KMP, React, Flutter  
+(Half of it actually works)
 
-🎯 **Current Mission:**
-- Making apps that don't just work, but make one smile
-- Learning KMP tricks (it's like magic, but with more semicolons)
-- Building snappy web apps (because nobody likes waiting!)
-- Contributing to open source (because sharing is caring!)
+---
 
-💬 **Let's Talk About:**
-- Kotlin/Flutter/Javascript/Java (I speak multiple languages, including caffeine)
-- Why my code works on Friday but breaks on Monday
-- How my breakpoints give the same heart attacks as Tom Cruise stunts 😅
+### 🎯 Roles
 
+- **Day job:** Turning coffee into bugs  
+- **Night job:** Fixing those bugs  
+- **Weekend job:** Creating new bugs
+
+---
+
+### 💬 Fun Facts
+
+- Most of my codes work on hopes and prayers
+- I fear if someone would ask me about any topic 🙃
+- CDCP is the become new HOPE (chatgpt, Deepseek, Claude, Perplexity) 
+- "Works on my machine" is my staus before delivering 
+- I've restarted more servers than relationships 
+
+---
+
+> *Currently debugging why my life has so many merge conflicts* 🤷‍♂️
+
+---
 
 ### 🌐 Find Me Around The Web:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit115)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rokiran) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13644300) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@unsungcoders)
