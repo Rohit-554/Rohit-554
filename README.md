@@ -19,7 +19,7 @@
 
 - Most of my codes work on hopes and prayers
 - I fear if someone would ask me about any topic 🙃
-- CDCP is the become new HOPE (chatgpt, Deepseek, Claude, Perplexity) 
+- CDCP is the  new HOPE (chatgpt, Deepseek, Claude, Perplexity) 
 - "Works on my machine" is my staus before delivering 
 - I've restarted more servers than relationships 
 
