@@ -1,31 +1,10 @@
 # Hello World! <img src="https://user-images.githubusercontent.com/48874687/204885212-7558d3b7-733f-4d94-b64f-3fa60f3c44b5.gif" width="380" align="right" />
 
-### 👨‍💻 Dev Who Googles Everything
+### 👨‍💻 Googling things 
 
-**Building with:** Android, KMP, React, Flutter  
-(Half of it actually works)
+Mobiling things - Android, KMP 
 
----
-
-### 🎯 Roles
-
-- **Day job:** Turning coffee into bugs  
-- **Night job:** Fixing those bugs  
-- **Weekend job:** Creating new bugs
-
----
-
-### 💬 Fun Facts
-
-- Most of my codes work on hopes and prayers
-- I fear if someone would ask me about any topic 🙃
-- CDCP is the  new HOPE (chatgpt, Deepseek, Claude, Perplexity) 
-- "Works on my machine" is my staus before delivering 
-- I've restarted more servers than relationships 
-
----
-
-> *Currently debugging why my life has so many merge conflicts* 🤷‍♂️
+> * I don't know what take you here, but thanks :)
 
 ---
 
@@ -76,7 +55,6 @@
 
 ---
 <div align="center">
-<em>Built with AI, but the chaos is all mine! </em>😉
 
 ### Thanks for dropping by! ☕
 Come back soon - there's always something new breaking (and getting fixed) here!
