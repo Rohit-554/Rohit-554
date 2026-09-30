@@ -19,6 +19,7 @@ Exploring software engineering with curiosity.
 
 ### 🌐 Find Me Around The Web:
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-rohitbuilder.tech-95D92C?style=for-the-badge)](https://rohitbuilder.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit115)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rokiran)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13644300)
