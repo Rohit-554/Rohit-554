@@ -8,12 +8,12 @@
 
 ---
 
-I am exploring More of Mobile through the eyes of a child
+Exploring mobile development with curiosity.
 
-- Writing clean Kotlin & Jetpack Compose
-- Sharing logic with Kotlin Multiplatform (KMP)
-- Craftling some impossible animations with jetpack compose
-- And building gradle till my old Age 🥲
+- Kotlin & Jetpack Compose
+- Kotlin Multiplatform (KMP)
+- Playful Compose animations
+- Building with Gradle 🥲
 
 ---
 
