@@ -8,63 +8,59 @@
 
 ---
 
-I am exploring More of Mobile through the eyes of a child
+## Building mobile software with childlike curiosity and grown-up engineering
 
-- Writing clean Kotlin & Jetpack Compose
-- Sharing logic with Kotlin Multiplatform (KMP)
-- Craftling some impossible animations with jetpack compose
-- And building gradle till my old Age 🥲
+I explore mobile development by asking simple questions: **Can this feel smoother? Can this be clearer? Can it be shared?** Then I turn the answers into dependable products.
 
----
+```kotlin
+val currentFocus = listOf(
+    "Kotlin + Jetpack Compose",
+    "Kotlin Multiplatform",
+    "Expressive UI motion",
+    "Reliable backend systems"
+)
+```
 
-### 🌐 Find Me Around The Web:
+### Currently shipping
 
+- **Mobile craft**: clean Kotlin, polished Compose UI, and animations that earn their complexity
+- **Shared foundations**: Kotlin Multiplatform code that keeps Android and beyond moving together
+- **Backend support**: Ktor services, PostgreSQL, Docker, Firebase, and the tooling around them
+- **Developer platforms**: OpenSpec, agentic workflows, and community projects through [Unsung Coders](https://unsungcoders.com)
+
+> I will probably keep building Gradle projects well into old age. 🥲
+
+### Find me around the web
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rohitbuilder.tech-95D92C?style=for-the-badge)](https://rohitbuilder.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit115)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rokiran)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13644300)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13644300)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@unsungcoders)
 
+### Engineering palette
 
-**Mobile**
-<br>
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white) ![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-**Backend & Tools**
-<br>
-![Ktor](https://img.shields.io/badge/ktor-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
+| Mobile | Backend and tools |
+| :--- | :--- |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Kotlin Multiplatform](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![Ktor](https://img.shields.io/badge/Ktor-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
 <details>
-<summary>🏆 GitHub Trophies (Click to expand!)</summary>
-<br>
-
-![](https://github-profile-trophy.vercel.app/?username=Rohit-554&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <summary><strong>🏆 GitHub trophies</strong></summary>
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohit-554&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies for Rohit Kumar" />
 </details>
 
 <details>
-<summary>📈 GitHub Stats (Click to expand!)</summary>
-<br>
-
-![](https://github-readme-stats.vercel.app/api?username=Rohit-554&theme=holi&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-554&theme=holi&hide_border=false)
+  <summary><strong>📈 GitHub activity</strong></summary>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohit-554&show_icons=true&theme=holi&hide_border=true" alt="Rohit's GitHub statistics" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-554&theme=holi&hide_border=true" alt="Rohit's GitHub contribution streak" />
 </details>
 
-> "Debug like nobody's watching! 🐛✨"
-
-[![](https://visitcount.itsvg.in/api?id=Rohit-554&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-<div align="center">
-
-### Thanks for dropping by! ☕
-Come back soon - there's always something new breaking (and getting fixed) here!
-
-[![](https://visitcount.itsvg.in/api?id=Rohit-554&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
+<p align="center">
+  <i>Debug like nobody's watching. 🐛✨</i><br />
+  <sub>Thanks for dropping by. Something new is always being built, improved, or debugged here.</sub>
+</p>
