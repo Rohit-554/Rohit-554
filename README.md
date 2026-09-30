@@ -1,68 +1,70 @@
-<h1 align="center">Hi, I'm Rohit Kumar 👋</h1>
+# Hello World! <img src="https://user-images.githubusercontent.com/48874687/204885212-7558d3b7-733f-4d94-b64f-3fa60f3c44b5.gif" width="380" align="right" />
 
-<p align="center">
-  Software engineer building dependable mobile, backend, AI-system, and developer-platform products.
-</p>
+### I am
 
-<p align="center">
-  <a href="https://rohitbuilder.tech">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/rohit115/">LinkedIn</a> ·
-  <a href="mailto:rohit.builder.dev@gmail.com">Email</a> ·
-  <a href="https://www.youtube.com/@unsungcoders">YouTube</a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91FC&width=435&lines=Android+Developer;Kotlin+Multiplatform+%26+Compose;Exploring+New+Tech" alt="Typing SVG" /></a>
 
-## About me
+> * I don't know what take you here, but thanks 😊
 
-I enjoy making complex systems feel simple and useful. My work spans Android and Kotlin Multiplatform applications, backend services, and developer tooling. I am especially interested in clear architecture, thoughtful product details, OpenSpec, and agentic development workflows.
+---
 
-- Building polished Android experiences with Kotlin and Jetpack Compose
-- Sharing business logic with Kotlin Multiplatform
-- Designing expressive, performant Compose animations
-- Developing reliable services with Ktor, PostgreSQL, Docker, and Firebase
-- Exploring AI systems and developer platforms through Unsung Coders
+I am exploring More of Mobile through the eyes of a child
 
-> Debug like nobody's watching. 🐛✨
+- Writing clean Kotlin & Jetpack Compose
+- Sharing logic with Kotlin Multiplatform (KMP)
+- Craftling some impossible animations with jetpack compose
+- And building gradle till my old Age 🥲
 
-## Connect
+---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rohitbuilder.tech-95D92C?style=for-the-badge)](https://rohitbuilder.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit115/)
+### 🌐 Find Me Around The Web:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit115)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rokiran)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13644300)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13644300)
 
-## Toolkit
 
 **Mobile**
+<br>
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white) ![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-**Backend and tools**
+**Backend & Tools**
+<br>
+![Ktor](https://img.shields.io/badge/ktor-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Ktor](https://img.shields.io/badge/Ktor-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub activity
+---
+
+---
 
 <details>
-  <summary><strong>🏆 Trophies</strong></summary>
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohit-554&theme=radical&no-frame=true&margin-w=8" alt="GitHub trophies for Rohit Kumar" />
+<summary>🏆 GitHub Trophies (Click to expand!)</summary>
+<br>
+
+![](https://github-profile-trophy.vercel.app/?username=Rohit-554&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </details>
 
 <details>
-  <summary><strong>📈 Stats and streak</strong></summary>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohit-554&show_icons=true&theme=radical&hide_border=true" alt="Rohit's GitHub statistics" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-554&theme=radical&hide_border=true" alt="Rohit's GitHub contribution streak" />
+<summary>📈 GitHub Stats (Click to expand!)</summary>
+<br>
+
+![](https://github-readme-stats.vercel.app/api?username=Rohit-554&theme=holi&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-554&theme=holi&hide_border=false)
 </details>
 
-<p align="center">Thanks for visiting. There is always something new being built and debugged here.</p>
+> "Debug like nobody's watching! 🐛✨"
+
+[![](https://visitcount.itsvg.in/api?id=Rohit-554&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+<div align="center">
+
+### Thanks for dropping by! ☕
+Come back soon - there's always something new breaking (and getting fixed) here!
+
+[![](https://visitcount.itsvg.in/api?id=Rohit-554&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
