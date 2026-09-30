@@ -8,12 +8,12 @@
 
 ---
 
-Exploring mobile development with curiosity.
+Exploring software engineering with curiosity.
 
-- Kotlin & Jetpack Compose
-- Kotlin Multiplatform (KMP)
-- Playful Compose animations
-- Building with Gradle 🥲
+- Building products across mobile, backend, and AI
+- Designing clear, reliable systems
+- Experimenting with agents and developer tools
+- Learning by building and shipping
 
 ---
 
